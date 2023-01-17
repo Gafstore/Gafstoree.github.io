@@ -1,0 +1,8 @@
+body {
+  background-color: #eddbc0;
+  justify-content: center;
+}
+.dark-mode {
+  background-color: #282a3a;
+  color: white;
+}
